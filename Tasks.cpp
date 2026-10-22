@@ -172,3 +172,25 @@ int main() {
 }
 //the second condition is true for 18 so that runs and gives us pleasent
 */
+/*
+//Task 8
+// Mahad L1F26BSCS0314
+#include <iostream>
+using namespace std;
+int main() {
+	int marks;
+	cout << "Enter marks: ";
+	cin >> marks;
+	// there is = used instead of == but still we need to check if its greater or not so we will use >=
+	if (marks >= 50) {
+		cout << "Pass" << endl;
+	}
+	else {
+		cout << "Fail" << endl;
+	}
+	return 0;
+}
+// = is an assignment operator while == is used to comapare to values
+*/
+
+//Task 9
